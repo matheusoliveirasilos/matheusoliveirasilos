@@ -87,11 +87,11 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 <p>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/matheus-oliveira-de-silos-16a33b37a/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="matheusoliveirasilos09072002@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
