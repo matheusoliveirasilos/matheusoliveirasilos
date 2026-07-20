@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus !!!!</h1>
 
 <h3 align="center">
 Estudante de Análise e Desenvolvimento de Sistemas • Futuro Desenvolvedor
@@ -41,9 +41,9 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusoliveirasilos&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveirasilos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
