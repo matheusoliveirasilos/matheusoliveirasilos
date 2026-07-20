@@ -8,20 +8,6 @@ Estudante de Análise e Desenvolvimento de Sistemas • Futuro Desenvolvedor
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+ADS;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Sempre+aprendendo+algo+novo." />
 </p>
 
----
-
-## 🚀 Sobre mim
-
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-
-📚 Atualmente estudando:
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
-- Git e GitHub
-
 🎯 Objetivo:
 Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com projetos reais.
 
@@ -35,30 +21,6 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusoliveirasilos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveirasilos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🏆 Conquistas
 
 <p align="center">
@@ -67,29 +29,7 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 </p>
 
----
 
-## 📌 Projetos
-
-⭐ Landing Page Restaurante
-
-⭐ Barbearia
-
-⭐ Clínica Odontológica
-
-⭐ Pet Shop
-
-⭐ Pizzaria
-
----
-
-## 🌎 Vamos nos conectar
-
-<p>
-
-<a href="https://www.linkedin.com/in/matheus-oliveira-de-silos-16a33b37a/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
 <a href="matheusoliveirasilos09072002@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
