@@ -21,13 +21,6 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 </p>
 
-## 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
 
 
 
