@@ -24,10 +24,5 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 
 
-<a href="matheusoliveirasilos09072002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
 
 
