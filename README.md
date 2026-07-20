@@ -37,11 +37,4 @@ Conquistar uma oportunidade de estágio para aprender, evoluir e contribuir com 
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge"/>
-
-</p>
 
